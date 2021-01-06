@@ -29,7 +29,8 @@ jsproxy_config({
     'mysite': {
       label: '当前站点',
       lines: {
-        [location.host]: 1,
+        'floral-king-d396.17173sd.workers.dev': 1,
+        'empty-block-554f.17173sd.workers.dev': 1
       }
     },
     // 该节点用于加载大体积的静态资源
